@@ -1,6 +1,4 @@
-Google Mirror API's Quickstart for Python
+Eventbrite Hack for Google Glass
 ========================
 
-The documentation for this quickstart is maintained on developers.google.com.
-Please see here for more information:
-https://developers.google.com/glass/quickstart/python
+Eventbrite hack for Google Glass with location-based event discovery, custom menu option to view social stream, and injection of social stream images + tweets to the timeline — Edit
